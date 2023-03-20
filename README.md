@@ -9,7 +9,7 @@ I also included multiple levels of difficulty, which increased in complexity as 
 Overall, creating CUBETHON was a fantastic way to develop my C# and Unity skills, and I'm excited to continue exploring new game development concepts and ideas.
 
 Here is a 
-[direct link](https://drive.google.com/file/d/1yQ69avS_LcvSAF0JfUsWxrbIGkQ7_z6S/view?usp=sharing)
+[direct link](http://bit.ly/3Lx8BZz)
 to try it and have much fun, please reach me out anytime if you have any feedback
 
 
